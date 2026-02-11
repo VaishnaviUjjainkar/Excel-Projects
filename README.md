@@ -48,3 +48,5 @@ Work with real-world structured datasets
 Create interactive dashboards
 Extract actionable insights
 Present data professionally# Excel-Projects
+<img width="1858" height="754" alt="Screenshot 2026-01-29 140054" src="https://github.com/user-attachments/assets/b23c6bc1-fc47-4834-82ce-227b338b21f9" />
+
